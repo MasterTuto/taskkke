@@ -16,7 +16,12 @@ export default function Header() {
   if (userLogin.isLoggedIn()) {
     return (
       <div className="header">
-        <img src={logo} alt="logo" className="logo" />
+        <img
+          src={logo}
+          alt="logo"
+          className="logo"
+          onClick={() => navigate("/")}
+        />
         <h4>
           Seja bem-vindo, {userLogin.getUser()?.name ?? "visitante"}. Deseja{" "}
           <span className="sairBtn" onClick={logOut}>

@@ -81,7 +81,7 @@ export default function NoteItem({ note, onRemove, readonly }: Props) {
         </div>
       </div>
 
-      {!done && (
+      {!done && !readonly && (
         <button
           onClick={(evt) => {
             evt.stopPropagation();

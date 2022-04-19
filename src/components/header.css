@@ -29,7 +29,8 @@
 }
 
 .header .logo {
-    width: 10em
+    width: 10em;
+    cursor: pointer;
 }
 
 .sairBtn {
