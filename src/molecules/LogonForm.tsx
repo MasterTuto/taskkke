@@ -44,7 +44,7 @@ export default function LogonForm({
       />
       <Input
         id="passwordConfirmation"
-        label="senha"
+        label="confirmação de senha:"
         onChangeText={(s) =>
           setLogOnData({ ...logOnData, ...{ passwordConfirmation: s } })
         }
