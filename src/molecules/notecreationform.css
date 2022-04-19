@@ -1,0 +1,23 @@
+.note-form-container {
+    display: flex;
+}
+
+.note-form-container input[type="button"],
+.note-form-container button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 20%;
+    transition: 0.4s;
+    font-size: 2em;;
+}
+
+.note-form-container input[type="text"] {
+    flex: 1;
+    font-size: 1.5em;
+}
+
+.note-form-container input[type="button"]:hover,
+.note-form-container button:hover {
+    box-shadow: 2px 2px 7px 0px rgba(0, 0, 0, 1);
+}

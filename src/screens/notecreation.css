@@ -1,0 +1,52 @@
+.note-creation-container {
+    flex: 1;
+
+    display: flex;
+    flex-direction: column;
+    gap: 1.7em;
+    padding-inline: 2em;
+    padding-block: 1em;
+}
+
+.note-creation-container span {
+    display: flex;
+    font-size: 1.2em;
+    flex-direction: column;
+}
+
+.note-creation-container span textarea,
+.note-creation-container span input {
+    font-size: 1.2em;
+}
+
+.note-creation-container span textarea {
+    resize: none;
+    height: 8em;
+}
+
+.note-save-btn,
+.note-cancel-btn {
+    background: none;
+    border-radius: 20px;
+    padding-block: 1em;
+    border-style: solid;
+    outline: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.note-save-btn {
+    background-color: #011B56;
+    color: #efefef;
+}
+
+.note-save-btn:hover {
+    background-color: #0269A4
+}
+
+.note-cancel-btn:hover {
+    background-color: #a0a0a0;
+}

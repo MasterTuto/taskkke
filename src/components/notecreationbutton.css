@@ -1,0 +1,17 @@
+.note-add-btn {
+    font-size: 3em;
+    position: fixed;
+    bottom: 0.5em;
+    left: .5em;
+    padding: .3em;
+
+    border-radius: 50%;
+    background-color: #FFD832;
+    cursor: pointer;
+    transition: .4s;
+}
+
+.note-add-btn:hover {
+    box-shadow: 4px 4px 6px 0px rgba(0, 0, 0, 0.5);
+    transform: translate(-5px, -5px);
+}

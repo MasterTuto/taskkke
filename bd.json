@@ -1,0 +1,228 @@
+{
+  "authors": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "password": "5f4dcc3b5aa765d61d8327deb882cf99"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "janedoe@mail.com",
+      "password": "5f4dcc3b5aa765d61d8327deb882cf99"
+    },
+    {
+      "id": "3",
+      "name": "John Smith",
+      "email": "johnsmith@mail.com",
+      "password": "5f4dcc3b5aa765d61d8327deb882cf99"
+    },
+    {
+      "id": "4",
+      "name": "Jane Smith",
+      "email": "janesmith@mail.com",
+      "password": "5f4dcc3b5aa765d61d8327deb882cf99"
+    },
+    {
+      "id": "20501558681",
+      "email": "bunfu@gmail.com",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "id": "52584981459",
+      "name": "Breno Carvalho",
+      "email": "breno@gmail.com",
+      "password": "202cb962ac59075b964b07152d234b70"
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Do the laundry lavanderia",
+      "state": "todo",
+      "visibility": "public",
+      "authorId": "1",
+      "description": "and pee on my dog 3"
+    },
+    {
+      "id": "2",
+      "title": "Buy groceries",
+      "state": "todo",
+      "visibility": "public",
+      "authorId": "2"
+    },
+    {
+      "id": "3",
+      "title": "Make dinner",
+      "state": "todo",
+      "visibility": "public",
+      "authorId": "3"
+    },
+    {
+      "id": "4",
+      "title": "Clean the house",
+      "state": "todo",
+      "visibility": "public",
+      "authorId": "2"
+    },
+    {
+      "state": "todo",
+      "title": "boca",
+      "visibility": "private",
+      "author": "",
+      "id": "EeprAfA"
+    },
+    {
+      "state": "todo",
+      "title": "boca",
+      "visibility": "private",
+      "author": "",
+      "id": "sLRC9we"
+    },
+    {
+      "state": "todo",
+      "title": "bca",
+      "visibility": "public",
+      "author": "",
+      "id": "rgmspOu"
+    },
+    {
+      "state": "todo",
+      "title": "boca",
+      "visibility": "private",
+      "author": "",
+      "id": "5C4AKN7"
+    },
+    {
+      "state": "todo",
+      "title": "notas",
+      "visibility": "private",
+      "authorId": "20501558681",
+      "id": "MRpyvZI"
+    },
+    {
+      "state": "done",
+      "title": "lo",
+      "visibility": "public",
+      "authorId": "20501558681",
+      "id": "RirosGk"
+    },
+    {
+      "state": "todo",
+      "title": "bola",
+      "visibility": "private",
+      "authorId": "20501558681",
+      "id": "vZSlnfm"
+    },
+    {
+      "state": "todo",
+      "title": "sd",
+      "visibility": "private",
+      "authorId": "20501558681",
+      "id": "jAPkMDe"
+    },
+    {
+      "state": "todo",
+      "title": "brevidade da vida",
+      "visibility": "private",
+      "authorId": "20501558681",
+      "id": "jlQVhgm"
+    },
+    {
+      "state": "todo",
+      "title": "bola",
+      "visibility": "private",
+      "authorId": "20501558681",
+      "id": "0xx0QLM"
+    },
+    {
+      "state": "todo",
+      "title": "breno",
+      "visibility": "private",
+      "description": "",
+      "authorId": "20501558681",
+      "id": "wS3OOSf"
+    },
+    {
+      "state": "todo",
+      "title": "Sucesso",
+      "visibility": "private",
+      "description": "",
+      "authorId": "20501558681",
+      "id": "r4gThR2"
+    },
+    {
+      "state": "todo",
+      "title": "Sucesso",
+      "visibility": "private",
+      "description": "",
+      "authorId": "20501558681",
+      "id": "FslE7qU"
+    },
+    {
+      "state": "todo",
+      "title": "dasdasdasdasd",
+      "visibility": "private",
+      "description": "",
+      "authorId": "20501558681",
+      "id": "h8N7-_t"
+    },
+    {
+      "state": "todo",
+      "title": "adasdasd",
+      "visibility": "private",
+      "description": "",
+      "authorId": "20501558681",
+      "id": "QEn-zf9"
+    },
+    {
+      "state": "todo",
+      "title": "bora",
+      "visibility": "private",
+      "description": "",
+      "authorId": "20501558681",
+      "id": "4_lpqs2"
+    },
+    {
+      "state": "done",
+      "title": "abracadabra",
+      "visibility": "private",
+      "description": "",
+      "authorId": "1",
+      "id": "5BS3_zm"
+    },
+    {
+      "state": "done",
+      "title": "asd",
+      "visibility": "private",
+      "description": "",
+      "authorId": "1",
+      "id": "91Kn7gC"
+    },
+    {
+      "state": "done",
+      "title": "bomba patch",
+      "visibility": "private",
+      "description": "",
+      "authorId": "1",
+      "id": "13Bohsi"
+    },
+    {
+      "authorId": "1",
+      "state": "todo",
+      "description": "Adorar essa deusa a cada segundo da minha vida, pelo resto da minha minha vida. 🥺",
+      "title": "Minha namorada perfeita",
+      "visibility": "public",
+      "id": "N6Fa7_p"
+    },
+    {
+      "authorId": "52584981459",
+      "state": "todo",
+      "description": "",
+      "title": "Sucessosss",
+      "visibility": "private",
+      "id": "RoZZZ-R"
+    }
+  ]
+}

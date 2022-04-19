@@ -1,0 +1,93 @@
+{
+  "authors": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "password": "5f4dcc3b5aa765d61d8327deb882cf99"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "janedoe@mail.com",
+      "password": "5f4dcc3b5aa765d61d8327deb882cf99"
+    },
+    {
+      "id": "3",
+      "name": "John Smith",
+      "email": "johnsmith@mail.com",
+      "password": "5f4dcc3b5aa765d61d8327deb882cf99"
+    },
+    {
+      "id": "4",
+      "name": "Jane Smith",
+      "email": "janesmith@mail.com",
+      "password": "5f4dcc3b5aa765d61d8327deb882cf99"
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Do the laundry",
+      "state": "todo",
+      "visibility": "public",
+      "authorId": "1"
+    },
+    {
+      "id": "2",
+      "title": "Buy groceries",
+      "state": "todo",
+      "visibility": "public",
+      "authorId": "2"
+    },
+    {
+      "id": "3",
+      "title": "Make dinner",
+      "state": "todo",
+      "visibility": "public",
+      "authorId": "3"
+    },
+    {
+      "id": "4",
+      "title": "Clean the house",
+      "state": "todo",
+      "visibility": "public",
+      "authorId": "2"
+    },
+    {
+      "id": "5",
+      "title": "Take out the trash",
+      "state": "todo",
+      "visibility": "public",
+      "authorId": "1"
+    },
+    {
+      "state": "todo",
+      "title": "boca",
+      "visibility": "private",
+      "author": "",
+      "id": "EeprAfA"
+    },
+    {
+      "state": "todo",
+      "title": "boca",
+      "visibility": "private",
+      "author": "",
+      "id": "sLRC9we"
+    },
+    {
+      "state": "todo",
+      "title": "bca",
+      "visibility": "public",
+      "author": "",
+      "id": "rgmspOu"
+    },
+    {
+      "state": "todo",
+      "title": "boca",
+      "visibility": "private",
+      "author": "",
+      "id": "5C4AKN7"
+    }
+  ]
+}

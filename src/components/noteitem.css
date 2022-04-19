@@ -1,0 +1,59 @@
+.note-container {
+    display: flex;
+    flex-direction: row;
+    background-color: var(--background-color);
+    padding: 1em;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.note-container input[type="checkbox"] {
+    transform: scale(1.7);
+}
+
+.note-container:hover {
+    outline: 1px solid black;
+}
+
+.note-container .note-data {
+    flex: 1;
+    margin-left: 1em;
+}
+
+.note-container .note-data .note-title {
+    font-size: 1.4em;
+    font-weight: 600;
+}
+
+.note-container .note-data .note-visibility {
+    font-style: italic;
+    padding-inline: 0.5em;
+
+    padding-block: 0.2em;;
+    /* background-color: red; */
+}
+
+.note-visibility .left {
+    border-radius: 50%;
+}
+
+.note-container button {
+    font-size: 1.3em;
+    background: none;
+    border: none;
+}
+
+.note-data.done * {
+    text-decoration: line-through;
+}
+
+.note-btn {
+    cursor: pointer;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+.note-btn:hover {
+    outline: 1px solid black;
+}

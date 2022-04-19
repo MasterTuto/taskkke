@@ -1,0 +1,39 @@
+.header {
+    background-color: #0269A4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0.3em;
+    width: 100%;    
+    color: #efefef;
+    flex: 1;
+}
+
+@media (max-width: 700px) {
+    .header {
+        flex: 0;
+        position: fixed;
+        top:0;
+    }
+}
+
+.header h4 span {
+    color: #c0c0c0;
+}
+
+.header,
+.header h4 span,
+* {
+    font-family: sans-serif;
+}
+
+.header .logo {
+    width: 10em
+}
+
+.sairBtn {
+    text-decoration: underline;
+    color: black;
+    cursor: pointer;
+}
